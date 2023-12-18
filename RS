@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Mapa Web</title>
+</head>
+<body>
+
+    <!-- Enlace a la página web generada por QGIS2Web -->
+    <a href="http://localhost/tu_archivo.html" target="_blank">Ver mi mapa</a>
+
+</body>
+</html>
